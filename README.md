@@ -6,3 +6,5 @@
 - My involvement: Tableau dashboards, data sourcing, EDA
 - Date: May 2020
 - School of Study during the project: Singapore Polytechnic
+- Year of study during the project: Year 1
+
